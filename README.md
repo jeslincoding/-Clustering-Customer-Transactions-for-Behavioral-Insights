@@ -21,14 +21,15 @@ Installation
 
 Requirements
 
-Python 3.8+
-Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
+1.Python 3.8+
+2.Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 
 Dataset
 
 Ensure the dataset.csv file is in the data/ folder. Replace this with your dataset as needed.
 
 Results
+
 Cluster visualizations and evaluation metrics will be saved in the results/ folder.
 
 Steps to Execute
@@ -38,7 +39,4 @@ Steps to Execute
 3.Perform clustering with src/clustering.py.
 4.Visualize the results with src/visualization.py.
 
-Place your dataset in the data/ folder (e.g., dataset.csv).
-Preprocess the data using src/preprocessing.py.
-Perform clustering with src/clustering.py.
-Visualize the results with src/visualization.py.
+
